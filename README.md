@@ -1,5 +1,6 @@
 # JFrame-Calculator
- Functional Calculator using JFrame in Java
+ Working Calculator with Basic Functions using JFrame in Java
+ Project Date: December 2, 2022 - December 7, 2022
 
 ![](Calculator.png)
 
